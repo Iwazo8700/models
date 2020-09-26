@@ -17,7 +17,6 @@
 """Tests for DeepLab model and some helper functions."""
 
 import tensorflow as tf
-
 from deeplab import common
 from deeplab import model
 
